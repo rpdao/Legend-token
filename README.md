@@ -8,7 +8,9 @@
 
 ***“For true Legends who need new limbs.”***
 
-**$LEG** is the Red Planet’s meme token, integrating the game economy, rewards, staking, and value circulation within the entire Red Planet ecosystem. It’s more than just an asset — it’s the **Red Planet’s circulatory system**, powering all products, missions, and ventures — from NFTs and DAO mechanics to RWAs and gaming activities.\
+**$LEG** is the Red Planet’s meme token, integrating the game economy, rewards, staking, and value circulation within the entire Red Planet ecosystem. It’s more than just an asset — it’s the **Red Planet’s circulatory system**, powering all products, missions, and ventures — from NFTs and DAO mechanics to RWAs and gaming activities.
+
+---
 
 ### Why Legs?
 
@@ -25,6 +27,8 @@ It’s about recovery, adaptation, and moving forward no matter what. Lose — r
 In the Red Planet ecosystem, “legs” are a resource for survival, progress, and status. The more limbs you managed to save and collect, the further you’ve progressed.
 Not everyone becomes a Legend.
 But every Legend once lost a leg — and moved on.*
+
+---
 
 ### I. Main idea
 
@@ -64,6 +68,8 @@ $LEG is Red Planet’s social layer. A meme, a reward, and a participation mecha
 $LEG is about you. About our brotherhood. About how we transform the chaos of Web3 into a living, breathing economy.
 
 ![photo_2025-07-31_23-35-24](https://github.com/user-attachments/assets/38c1f7bd-765f-4d4f-961d-6452d775abb6)
+
+---
 
 ### II. $LEG meme token
 
@@ -112,6 +118,8 @@ The $LEG pool is an indicator of the Red Planet’s “limb health”. The more 
 - “Legs at the Market.” “Limb Trade.” “Buy a New Leg — Become a Legend.”  
 - $LEG’s aesthetic is built around the absurd yet recognizable realism of Red Planet: a gray market for parts, Red Planet prosthetics, leg factories, and adventurers who reassemble themselves after each mission.  
 - Memes fuel the Red Planet economy.
+
+---
 
 ### III. $LEG Tokenomics
 
@@ -183,6 +191,8 @@ Flexible reserve for:
 - future integrations and partnerships.
 
 **Used at the discretion of the DAO.**
+
+---
 
 ### Risk & Volatility Disclaimer
 
